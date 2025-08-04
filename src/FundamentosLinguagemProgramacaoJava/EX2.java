@@ -1,4 +1,4 @@
-//Escreva um codigo que receba o tamanho do lado de um quadrado e calcule a area.
+package FundamentosLinguagemProgramacaoJava;//Escreva um codigo que receba o tamanho do lado de um quadrado e calcule a area.
 
 
 import java.util.Scanner;

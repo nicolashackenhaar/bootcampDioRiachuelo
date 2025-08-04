@@ -1,4 +1,4 @@
-//Base e altura do triangulo retorna area
+package FundamentosLinguagemProgramacaoJava;//Base e altura do triangulo retorna area
 
 import java.util.Scanner;
 
@@ -11,6 +11,5 @@ public class EX3 {
         var altura = scanner.nextDouble();
         var resultado = base * altura;
         System.out.println(resultado);
-
     }
 }
