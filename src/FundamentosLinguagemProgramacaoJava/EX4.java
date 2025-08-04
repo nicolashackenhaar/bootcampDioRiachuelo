@@ -13,6 +13,5 @@ public class EX4 {
 
         System.out.println(diferenca);
 
-
     }
 }
